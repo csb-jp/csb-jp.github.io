@@ -1,7 +1,9 @@
 ---
-id: what-is-codesandbox
-title: CodeSandbox (コード・サンドボックス)とは
+id: intro
+title: はじめに
 ---
+
+## CodeSandbox (コード・サンドボックス)とは
 
 CodeSandbox は Web アプリケーション開発のためのオンラインエディターです。
 Web ブラウザの上ですばやくプロトタイプを作成し、簡単に実験を行い、ワンクリックで共有できます。
