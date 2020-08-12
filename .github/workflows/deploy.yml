@@ -15,4 +15,11 @@ jobs:
           key: yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: yarn-
       - run: yarn
-      - run: GIT_USER=${GITHUB_ACTOR} DEPLOYMENT_BRANCH=gh-pages yarn deploy
+      - name: Release to GitHub Pages
+        env:
+          GIT_USER: "${GITHUB_ACTOR}:${{ github.token }}"
+          DEPLOYMENT_BRANCH: gh-pages
+        run: |
+          git config --global user.email bot@example
+          git config --global user.name bot
+          yarn deploy
