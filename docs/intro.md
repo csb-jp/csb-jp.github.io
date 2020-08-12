@@ -1,6 +1,7 @@
 ---
 id: intro
 title: はじめに
+slug: /
 ---
 
 ## CodeSandbox (コード・サンドボックス)とは

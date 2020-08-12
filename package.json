@@ -1,0 +1,19 @@
+{
+  "name": "csb-jp.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Kohei Watanabe <kou029w@gmail.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@docusaurus/core": "^2.0.0-alpha.61",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.61",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy"
+  }
+}
