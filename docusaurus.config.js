@@ -48,6 +48,7 @@ module.exports = {
     },
   },
   customFields: {
+    lang: "ja",
     features: [
       {
         title: "このサイトについて",
