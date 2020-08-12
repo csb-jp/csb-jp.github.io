@@ -21,11 +21,14 @@ function Home() {
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
       <Head title={siteConfig.title} />
-      <header className="hero hero--primary">
+      <header className="hero shadow--lw">
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <Link className="button button--outline button--lg" to="docs/">
+          <Link
+            className="button button--secondary button--outline button--lg"
+            to="docs/"
+          >
             はじめに
           </Link>
         </div>
