@@ -15,4 +15,4 @@ jobs:
           key: yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: yarn-
       - run: yarn
-      - run: GIT_USER=${GITHUB_ACTOR} yarn deploy
+      - run: GIT_USER=${GITHUB_ACTOR} DEPLOYMENT_BRANCH=gh-pages yarn deploy
