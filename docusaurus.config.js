@@ -71,6 +71,10 @@ module.exports = {
         },
       ],
     },
+    algolia: {
+      apiKey: "d86274fecbabe1851da4c05099165a42",
+      indexName: "csb-jp",
+    },
   },
   customFields: {
     lang: "ja",
