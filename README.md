@@ -1,5 +1,7 @@
 # CodeSandbox ガイド
 
+[![Edit in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/csb-jp/csb-jp.github.io)
+
 ## このドキュメントについて
 
 Web アプリケーション開発のためのオンラインエディター CodeSandbox の使い方や機能をまとめたサイトです。
