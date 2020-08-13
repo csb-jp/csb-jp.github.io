@@ -7,21 +7,15 @@ CodeSandbox の基本的な使い方を紹介します。
 
 ## 画面のレイアウト
 
-画面の左側のサイドバーから編集するファイルの選択などを行うことができます。
+![area](https://i.gyazo.com/2dedff98cf5997e6582242e42f1401fd.png)
 
-![files](https://i.imgur.com/aqevFpz.png)
+画面の左側のエリアから編集するファイルの選択などを行うことができます。
 
 中央の大きなエリアがファイルを編集するところです。プログラムを書き換えることができます。
 
-![editor](https://i.imgur.com/e2h8Vhl.png)
+左側のエリアがプレビューです。ブラウザーでの表示を実際に確認できます。実際のブラウザーの画面で表示を確認するには、プレビューのエリアの右上の[Open In New Window]ボタンを選択します。
 
-左側のエリアがプレビューです。ブラウザーでの表示を実際に確認できます。
-
-![preview](https://i.imgur.com/umFOVYu.png)
-
-実際のブラウザーの画面で表示を確認するには、プレビューのエリアの右上の[Open In New Window]ボタンを選択します。
-
-![previewwindow](https://i.imgur.com/TEidjlJ.png)
+![open-in-new-window](https://i.gyazo.com/44c66d294361d40bd6109ed94fc8b0f0.png)
 
 ## サインイン
 
@@ -31,7 +25,7 @@ CodeSandbox は GitHub アカウントでサインインします。制限なく
 GitHub は世界中のコードをホスティングしているサービスです。サインインすることによって CodeSandbox で作成したプログラムを GitHub で公開できます。
 :::
 
-![signin](https://i.imgur.com/zT1LUKP.png)
+![signin](https://i.gyazo.com/6253559e46d4dddc718d8d0d9c52a62a.png)
 
 ## 保存
 
