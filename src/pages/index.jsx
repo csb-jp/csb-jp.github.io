@@ -7,7 +7,7 @@ import styles from "./styles.module.css";
 
 function Feature({ title, description }) {
   return (
-    <div className="col col--8 col--offset-2">
+    <div className="col col--8">
       <h2>{title}</h2>
       <p>{description}</p>
     </div>
