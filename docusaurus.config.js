@@ -27,6 +27,31 @@ module.exports = {
       },
     ],
   ],
+  plugins: [
+    [
+      "@docusaurus/plugin-pwa",
+      {
+        offlineModeActivationStrategies: ["always"],
+        pwaHead: [
+          {
+            tagName: "link",
+            rel: "manifest",
+            href: "/manifest.json",
+          },
+          {
+            tagName: "link",
+            rel: "apple-touch-icon",
+            href: "/img/apple-touch-icon.png",
+          },
+          {
+            tagName: "meta",
+            name: "theme-color",
+            content: "#0971f1",
+          },
+        ],
+      },
+    ],
+  ],
   themeConfig: {
     navbar: {
       title,

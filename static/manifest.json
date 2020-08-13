@@ -1,0 +1,20 @@
+{
+  "name": "CodeSandbox ガイド",
+  "short_name": "CSBガイド",
+  "icons": [
+    {
+      "src": "img/favicon.png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "img/favicon.ico",
+      "sizes": "16x16 24x24 32x32 40x40 48x48 64x64 96x96 128x128 192x192 256x256"
+    }
+  ],
+  "related_applications": [],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0971f1",
+  "background_color": "#fff"
+}
