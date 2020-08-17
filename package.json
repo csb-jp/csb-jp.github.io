@@ -9,7 +9,8 @@
     "@docusaurus/plugin-pwa": "^2.0.0-alpha.59",
     "@docusaurus/preset-classic": "^2.0.0-alpha.61",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "remark-deflist": "^0.2.1"
   },
   "scripts": {
     "start": "docusaurus start",

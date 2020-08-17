@@ -14,6 +14,7 @@ title: 設定
 サンドボックスの設定は sandbox.config.json ファイルの内容を変更することで行います。左端のアクティビティの中から[Configuration Files]→[sandbox.config.json]→[Create]または[Edit]選択すると sandbox.config.json の内容を変更できます
 
 Infinite Loop Protection
+
 : `infiniteLoopProtection`
 無限ループを検知したとき実行を停止するかどうか設定します。(デフォルト: `false` 停止しない)
 
@@ -22,6 +23,7 @@ Infinite Loop Protection
 :::
 
 Hard Reload on Change
+
 : `hardReloadOnChange`
 ファイルを変更するたび強制的にリロードするかどうか設定します。(デフォルト: `false` 強制的なリロードをしない)
 
@@ -30,6 +32,7 @@ Hard Reload on Change
 :::
 
 Template
+
 : [`template`](https://github.com/codesandbox/codesandbox-importers/blob/2ef3155b84a056e808c146485def6016d43a7318/packages/types/index.d.ts#L34-L59)
 選択したテンプレートを使用します。(`static` 静的ファイル、`node` Node.js コンテナー環境)
 

@@ -23,6 +23,7 @@ module.exports = {
           editUrl: `https://github.com/${owner}/${repo}/edit/master`,
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
+          remarkPlugins: [require("remark-deflist")],
         },
       },
     ],
