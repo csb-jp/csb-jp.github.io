@@ -1,12 +1,14 @@
 module.exports = {
-  docs: [
-    "intro",
-    "usage",
-    "github",
-    "live",
-    "configuration",
-    "environment",
-    "uploading",
-    "reference",
-  ],
+  docs: {
+    ガイド: [
+      "intro",
+      "usage",
+      "github",
+      "live",
+      "configuration",
+      "environment",
+      "uploading",
+    ],
+    付録: ["appendix/faq", "appendix/reference"],
+  },
 };
