@@ -38,10 +38,12 @@ GitHub は世界中のコードをホスティングしているサービスで�
 ![menu](https://i.imgur.com/5ipA65C.png)
 
 :::info
-(PC の場合) ショートカットキー <kbd>Ctrl</kbd>+<kbd>S</kbd> で OK です。
+(PC の場合) ショートカットキー <kbd>Ctrl</kbd>+<kbd>S</kbd> で保存できます。
 :::
 
-保存すると表示結果も自動的に更新されます。
+保存すると開いているファイルのタブの見た目が変わり、表示結果も自動的に更新されます。
+
+![on-save](https://i.imgur.com/cScnE7L.png)
 
 ## ファイルの作成
 
