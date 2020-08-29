@@ -1,7 +1,7 @@
 name: deploy
 on:
   push:
-    branches: [docs]
+    branches: [master]
 jobs:
   main:
     runs-on: ubuntu-latest
@@ -18,8 +18,7 @@ jobs:
       - name: Release to GitHub Pages
         env:
           GIT_USER: "${GITHUB_ACTOR}:${{ github.token }}"
-          # FIXME: https://github.com/facebook/docusaurus/issues/3270
-          # DEPLOYMENT_BRANCH: gh-pages
+          DEPLOYMENT_BRANCH: gh-pages
         run: |
           git config --global user.email bot@example
           git config --global user.name bot
