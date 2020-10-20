@@ -8,8 +8,8 @@
     "@docusaurus/core": "^2.0.0-alpha.62",
     "@docusaurus/plugin-pwa": "^2.0.0-alpha.62",
     "@docusaurus/preset-classic": "^2.0.0-alpha.62",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
     "remark-deflist": "^0.2.1"
   },
   "scripts": {
