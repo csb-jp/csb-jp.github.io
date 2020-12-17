@@ -2,6 +2,7 @@ const title = "CodeSandbox ガイド";
 const description = "CodeSandbox 非公式日本語ドキュメント";
 const owner = "csb-jp";
 const repo = "csb-jp.github.io";
+const locales = ["ja"];
 
 module.exports = {
   url: "https://csb-jp.github.io",
@@ -11,6 +12,7 @@ module.exports = {
   tagline: description,
   organizationName: owner,
   projectName: repo,
+  i18n: { locales, defaultLocale: locales[0] },
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -72,13 +74,13 @@ module.exports = {
         },
       ],
     },
+    footer: {},
     algolia: {
       apiKey: "d86274fecbabe1851da4c05099165a42",
       indexName: "csb-jp",
     },
   },
   customFields: {
-    lang: "ja",
     features: [
       {
         title: "このサイトについて",
