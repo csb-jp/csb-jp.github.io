@@ -14,7 +14,7 @@ Node.js と yarn を使って修正内容を確認できます。
 あらかじめ Node.js と yarn をインストールしてください。
 
 - [Node.js のインストール](https://nodejs.org/ja/download/)
-- [Yarn のインストール](https://classic.yarnpkg.com/ja/docs/install/)
+- [Yarn のインストール](https://yarnpkg.com/getting-started/install)
 
 次のコマンドで依存するパッケージをインストールします。
 
