@@ -5,9 +5,9 @@
   "author": "Kohei Watanabe <kou029w@gmail.com>",
   "license": "CC0-1.0",
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.70",
-    "@docusaurus/plugin-pwa": "^2.0.0-alpha.70",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.70",
+    "@docusaurus/core": "^2.0.0-beta",
+    "@docusaurus/plugin-pwa": "^2.0.0-beta",
+    "@docusaurus/preset-classic": "^2.0.0-beta",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "remark-deflist": "^0.3.0"
