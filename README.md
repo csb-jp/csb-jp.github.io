@@ -1,6 +1,6 @@
 # CodeSandbox ガイド
 
-[![Edit in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/csb-jp/csb-jp.github.io)
+[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/csb-jp/csb-jp.github.io)
 
 ## このドキュメントについて
 
