@@ -33,7 +33,7 @@ Hard Reload on Change
 
 Template
 
-: [`template`](https://github.com/codesandbox/codesandbox-importers/blob/2ef3155b84a056e808c146485def6016d43a7318/packages/types/index.d.ts#L34-L59)
+: [`template`](https://github.com/codesandbox/codesandbox-importers/blob/97d52141aa025ac7baf83b9574a9e5ae4f771df7/packages/types/index.d.ts#L38-L65)
 選択したテンプレートを使用します。(`static` 静的ファイル、`node` Node.js コンテナー環境)
 
 ## .prettierrc
