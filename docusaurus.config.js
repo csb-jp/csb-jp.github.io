@@ -76,7 +76,7 @@ module.exports = {
     },
     footer: {},
     algolia: {
-      apiKey: "d86274fecbabe1851da4c05099165a42",
+      apiKey: "bb6ace279b50e8c509c5375ca836d341",
       indexName: "csb-jp",
     },
   },
