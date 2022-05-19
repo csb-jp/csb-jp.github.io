@@ -12,6 +12,7 @@ module.exports = {
   tagline: description,
   organizationName: owner,
   projectName: repo,
+  trailingSlash: false,
   i18n: { locales, defaultLocale: locales[0] },
   presets: [
     [
