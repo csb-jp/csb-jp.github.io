@@ -80,6 +80,7 @@ module.exports = {
       appId: "DU2A7Q5ZGR",
       apiKey: "bb6ace279b50e8c509c5375ca836d341",
       indexName: "csb-jp",
+      contextualSearch: false,
     },
   },
   customFields: {
