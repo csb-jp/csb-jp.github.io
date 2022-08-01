@@ -10,7 +10,7 @@
     "@docusaurus/preset-classic": "^2.0.0-beta",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "remark-deflist": "^0.3.0"
+    "remark-deflist": "^1.0.0"
   },
   "scripts": {
     "start": "docusaurus start",
