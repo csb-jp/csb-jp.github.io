@@ -1,3 +1,7 @@
+> [!WARNING]
+> このドキュメントは古い内容のままメンテナンスされていないため、2023 年 12 月 4 日アーカイブされました。
+> 最新の情報は [CodeSandbox 公式サイト](https://codesandbox.io/) をご確認ください。
+
 # CodeSandbox ガイド
 
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/csb-jp/csb-jp.github.io)
