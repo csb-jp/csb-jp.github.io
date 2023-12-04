@@ -1,3 +1,6 @@
 <!doctype html>
 <title>Redirect page</title>
 <meta http-equiv="refresh" content="0; URL=https://codesandbox.io/docs/learn/editors/web/overview" />
+<script>
+  navigator.serviceWorker.getRegistrations().then((rs) => rs.forEach((r) => r.unregister()));
+</script>
